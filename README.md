@@ -64,10 +64,7 @@ Undo functionality to reverse the last file operation.
 Maintaining the task history for all operations.
 
 ## ✍️ Developed By
-Aarohi Dixit (2310990173)
-
-**Supervisor:**
-Mr. Sachin Garg
+Prabhas Puttu
 
 ## 🎯 Conclusion
 This project showcases real-world usage of Java, file handling, and DSA concepts.
